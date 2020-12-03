@@ -1,0 +1,20 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorAccent">@color/primary_color</item>
+        <item name="android:colorBackground">@color/surface_color</item>
+    </style>
+
+    <style name="SearchStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="shapeAppearance">@style/MediumShapeAppearance</item>
+        <item name="backgroundColor">#212121</item>
+        <item name="hintEnabled">false</item>
+    </style>
+
+    <style name="MediumShapeAppearance" parent="ShapeAppearance.MaterialComponents.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">18dp</item>
+    </style>
+
+</resources>
