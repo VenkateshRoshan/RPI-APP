@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "398199178724",
+    "firebase_url": "https://iot-home-cdf8e-default-rtdb.firebaseio.com",
+    "project_id": "iot-home-cdf8e",
+    "storage_bucket": "iot-home-cdf8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398199178724:android:ed7a5f8d8da54eecb973f1",
+        "android_client_info": {
+          "package_name": "com.example.rpi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398199178724-09i8dogblhu4gcvkitlbrp115pej2vvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEC28CvMfTTJHPMTsWSdj72M5ZWO2zkd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398199178724-09i8dogblhu4gcvkitlbrp115pej2vvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
