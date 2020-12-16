@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RPI</string>
+    <string name="button_on">ON</string>
+    <string name="button_off">OFF</string>
 </resources>
