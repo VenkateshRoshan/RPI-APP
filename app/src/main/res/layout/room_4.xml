@@ -31,6 +31,7 @@
             android:gravity="center">
 
             <Button
+                android:id="@+id/ON_LIGHT"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight=".5"
@@ -40,6 +41,7 @@
                 android:visibility="visible"/>
 
             <Button
+                android:id="@+id/OFF_LIGHT"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight=".5"
@@ -78,6 +80,7 @@
             android:gravity="center">
 
             <Button
+                android:id="@+id/ON_FAN"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight=".5"
@@ -87,6 +90,7 @@
                 android:visibility="visible"/>
 
             <Button
+                android:id="@+id/OFF_FAN"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight=".5"
