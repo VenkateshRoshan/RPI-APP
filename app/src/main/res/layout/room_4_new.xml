@@ -35,7 +35,7 @@
                 android:id="@+id/lightICON"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="@mipmap/LightON" />
+                android:background="@drawable/lightoff" />
 
         </LinearLayout>
 
@@ -50,7 +50,7 @@
             android:layout_height="wrap_content"
             android:layout_weight=".5"
             android:padding="10sp"
-            android:text="ON" />
+            android:text="OFF" />
 
     </LinearLayout>
 
@@ -88,7 +88,7 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="@mipmap/fan" />
+                android:background="@drawable/fan" />
 
         </LinearLayout>
 
@@ -103,7 +103,7 @@
             android:layout_height="wrap_content"
             android:layout_weight=".5"
             android:padding="10sp"
-            android:text="ON" />
+            android:text="OFF" />
 
     </LinearLayout>
 
